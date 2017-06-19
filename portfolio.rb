@@ -3,5 +3,5 @@ require 'sinatra'
 # require 'httparty'
 
 get '/' do
-  File.read(File.join('public', 'Portfolio.html'))
+  File.read(File.join( settings.public_folder,'Portfolio.html'))
 end
