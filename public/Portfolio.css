@@ -1,15 +1,26 @@
-html {background-image:url(http://68.media.tumblr.com/bb6fa5fbdedea5be08bfaca08a853c93/tumblr_nwn7shUcQP1qa763mo1_500.gif);
-  background-size: cover;}
+body{
+  background-color: blue;
+  color: white;
+}
 
-body{color: white;}
+.header {
+  position: relative;
+  display: table;
+  width: 100%;
+  height: 100%;
+}
 
-a{color: white;}
+a{
+  color: white;
+}
 
 img{
   display: block;
   margin: auto;}
 
-h4,h3,p,li{text-align: center}
+h4,h3,p,li{
+  text-align: center
+}
 
 li {
   list-style-type: none;s
