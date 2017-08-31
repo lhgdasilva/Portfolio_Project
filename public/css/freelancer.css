@@ -135,8 +135,8 @@ section.success {
 
 @media (min-width: 992px) {
   #mainNav {
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 8px;
+    padding-bottom: 8px;
     -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s; }
@@ -159,8 +159,8 @@ section.success {
       font-size: 1.5em; } }
 
 header.masthead {
-  padding-top: 100px;
-  padding-bottom: 50px;
+  padding-top: 260px!important;
+  padding-bottom: 200px!important;
   text-align: center;
   color: white;
   background: #18BC9C; }
